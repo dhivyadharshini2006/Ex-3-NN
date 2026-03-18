@@ -37,7 +37,8 @@ Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
 
-```
+```python
+
 import numpy as np
 import pandas as pd
 import io
